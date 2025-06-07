@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolynomialPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\PolynomialPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\BernsteinBasisPolynomial.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\BernsteinBasisPolynomial.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Combination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Combination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolygonPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\PolygonPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Vector2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Vector2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\ProblemSet1\\PolynomialPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProblemSet1\\PolynomialPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector2D.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Vector2D.cpp",
+              "RelativeDocumentMoniker": "src\\Vector2D.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Vector2D.cpp",
+              "RelativeToolTip": "src\\Vector2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T09:02:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Combination.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Combination.cpp",
+              "RelativeDocumentMoniker": "src\\Combination.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Combination.cpp",
+              "RelativeToolTip": "src\\Combination.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T08:53:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BernsteinBasisPolynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\BernsteinBasisPolynomial.cpp",
+              "RelativeDocumentMoniker": "src\\BernsteinBasisPolynomial.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\BernsteinBasisPolynomial.cpp",
+              "RelativeToolTip": "src\\BernsteinBasisPolynomial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T08:53:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Polygon.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Polygon.cpp",
+              "RelativeDocumentMoniker": "src\\Polygon.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Polygon.cpp",
+              "RelativeToolTip": "src\\Polygon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T08:33:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolygonPS1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolygonPS1.cpp",
+              "RelativeDocumentMoniker": "src\\PolygonPS1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolygonPS1.cpp",
+              "RelativeToolTip": "src\\PolygonPS1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T06:46:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolynomialPS1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolynomialPS1.cpp",
+              "RelativeDocumentMoniker": "src\\PolynomialPS1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\PolynomialPS1.cpp",
+              "RelativeToolTip": "src\\PolynomialPS1.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T08:37:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "src\\Main.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\src\\Main.cpp",
+              "RelativeToolTip": "src\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T06:45:38.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolynomialPS1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\ProblemSet1\\PolynomialPS1.cpp",
+              "RelativeDocumentMoniker": "ProblemSet1\\PolynomialPS1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Problem_Set_1\\ProblemSet1\\PolynomialPS1.cpp",
+              "RelativeToolTip": "ProblemSet1\\PolynomialPS1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T08:32:47.502Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
