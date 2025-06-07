@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\COS30008\\Fundamental_test\\Bank_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178ADE5D-629C-41DC-86B3-F1D180E0E48A}|Bank_App\\Bank_App.vcxproj|C:\\Users\\admin\\Desktop\\COS30008\\Fundamental_test\\Bank_App\\Bank_App\\Bank_App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{178ADE5D-629C-41DC-86B3-F1D180E0E48A}|Bank_App\\Bank_App.vcxproj|solutionrelative:Bank_App\\Bank_App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank_App.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\Fundamental_test\\Bank_App\\Bank_App\\Bank_App.cpp",
+              "RelativeDocumentMoniker": "Bank_App\\Bank_App.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\Fundamental_test\\Bank_App\\Bank_App\\Bank_App.cpp",
+              "RelativeToolTip": "Bank_App\\Bank_App.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAApwG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T09:36:28.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
