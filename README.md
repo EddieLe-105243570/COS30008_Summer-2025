@@ -18,6 +18,7 @@ Vào Solution Explorer:
 Chuột phải vào Project name → Add → Existing Item
 
 Chọn và thêm các file sau (toàn bộ đều nằm trong thư mục bạn có):
+/data, /src, /include
 
 ⚙️ Bước 3: Cấu hình đường dẫn Include
 Chuột phải vào project → Properties
