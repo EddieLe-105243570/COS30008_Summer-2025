@@ -47,11 +47,21 @@ bool iVigenereStream::eof() const
     return fIStream.eof();
 }
 
+uint64_t iVigenereStream::position()
+{
+    return fIStream.tellg();
+}
+
+void iVigenereStream::seekstart()
+{
+    fIStream.clear();
+    fIStream.seekg(0, ios_base::beg);
+}
+
 iVigenereStream &iVigenereStream::operator>>(char &aCharacter)
 {
     char lChar;
-    fIStream.get(lChar);
-    if (!fIStream.eof())
+    if (fIStream.get(lChar))
     {
         aCharacter = fCipher(fCipherProvider, lChar);
     }
