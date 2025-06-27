@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\Main_PS2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|solutionrelative:Main_PS2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\ShakerSortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|solutionrelative:ShakerSortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\SortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|solutionrelative:SortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\IntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADFC315C-1263-43A4-A2F4-85263BFA73A2}|Problem_Set_2.vcxproj|solutionrelative:IntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShakerSortableIntVector.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\ShakerSortableIntVector.cpp",
+              "RelativeDocumentMoniker": "ShakerSortableIntVector.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\ShakerSortableIntVector.cpp",
+              "RelativeToolTip": "ShakerSortableIntVector.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-27T04:36:01.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortableIntVector.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\SortableIntVector.cpp",
+              "RelativeDocumentMoniker": "SortableIntVector.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\SortableIntVector.cpp",
+              "RelativeToolTip": "SortableIntVector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-27T04:27:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntVector.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\IntVector.cpp",
+              "RelativeDocumentMoniker": "IntVector.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\IntVector.cpp",
+              "RelativeToolTip": "IntVector.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-27T04:24:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_PS2.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\Main_PS2.cpp",
+              "RelativeDocumentMoniker": "Main_PS2.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_2\\Main_PS2.cpp",
+              "RelativeToolTip": "Main_PS2.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-27T04:23:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
