@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\COS30008\\COS30008_Summer-2025\\Problem_Set_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D685F1-8D9A-4F4F-A97C-AD709BDBC2A4}|Problem_Set_3.vcxproj|C:\\Users\\admin\\Downloads\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D685F1-8D9A-4F4F-A97C-AD709BDBC2A4}|Problem_Set_3.vcxproj|C:\\Users\\admin\\Downloads\\ListPS3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Main.cpp",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Main.cpp*",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T07:30:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListPS3.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ListPS3.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\ListPS3.h",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ListPS3.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ListPS3.h",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAYBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T07:33:23.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
